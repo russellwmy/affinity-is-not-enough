@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual env
+.venv/
+
+# Experiment artefacts (regenerated on each run)
+**/runs.log
+**/runs2.log
+**/ablation_results.json
+**/lm_experiment_results.json
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/

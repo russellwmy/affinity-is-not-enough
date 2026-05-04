@@ -2,7 +2,7 @@
 
 **Author:** Man Yung (Russell) Wong (Independent Researcher)
 **Contact:** research@russellwong.io
-**Paper:** [paper.pdf](./paper.pdf) — also on arXiv (link to be added after submission)
+**Paper:** [paper.pdf](./paper.pdf) — [arXiv:2605.00604](https://arxiv.org/abs/2605.00604)
 
 ---
 
@@ -97,12 +97,10 @@ The full composed gate is `softmax((W·h + W_pred·x̂) ⊙ Π)`. No expert arch
   author = {Wong, Man Yung Russell},
   title  = {Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts},
   year   = {2026},
-  eprint = {arXiv:XXXX.XXXXX},
-  url    = {https://arxiv.org/abs/XXXX.XXXXX}
+  eprint = {arXiv:2605.00604},
+  url    = {https://arxiv.org/abs/2605.00604}
 }
 ```
-
-(arXiv ID will be filled in after submission.)
 
 ## License
 
